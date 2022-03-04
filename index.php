@@ -124,7 +124,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="bn-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/header-logo.png" alt="">
                             </a>
                         </div>
@@ -159,15 +159,15 @@
                         <div id="navbarSupportedContent" class="navbar-collapse navbar-responsive-collapse collapse">
                             <ul class="navbar-nav">
                                 <li class="nav-item active">
-                                    <a class="nav-link" href="index.html">Home</a>
+                                    <a class="nav-link" href="index.php">Home</a>
                                 </li>
                                 <!-- Nav Item 1 End -->
                                 <li class="nav-item dropdown">
                                     <a href="#" class="nav-link menu-dropdown" data-toggle="dropdown">Category <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu fade-up" role="menu">
-                                        <li><a class="dropdown-item" href="category-grid.html">Grid Layout</a></li>
-                                        <li><a class="dropdown-item" href="category-list.html">List Layout</a></li>
-                                        <li><a class="dropdown-item" href="category-classic.html">Classic Layout</a></li>
+                                        <li><a class="dropdown-item" href="category-grid.php">Grid Layout</a></li>
+                                        <li><a class="dropdown-item" href="category-list.php">List Layout</a></li>
+                                        <li><a class="dropdown-item" href="category-classic.php">Classic Layout</a></li>
                                     </ul>
                                     <!-- Dropdown End -->
                                 </li>
@@ -175,8 +175,8 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link menu-dropdown" href="#" data-toggle="dropdown">Posts <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu fade-up" role="menu">
-                                        <li><a class="dropdown-item" href="single.html">Single Post #1</a></li>
-                                        <li><a class="dropdown-item" href="single-2.html">Single Post #2</a></li>
+                                        <li><a class="dropdown-item" href="single.php">Single Post #1</a></li>
+                                        <li><a class="dropdown-item" href="single-2.php">Single Post #2</a></li>
                                     </ul>
                                     <!-- Dropdown End -->
                                 </li>
@@ -184,9 +184,9 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link menu-dropdown" href="#" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu fade-up" role="menu">
-                                        <li><a class="dropdown-item" href="author.html">Author Page</a></li>
-                                        <li><a class="dropdown-item" href="404.html">404</a></li>
-                                        <li><a class="dropdown-item" href="contact.html">Contact</a></li>
+                                        <li><a class="dropdown-item" href="author.php">Author Page</a></li>
+                                        <li><a class="dropdown-item" href="404.php">404</a></li>
+                                        <li><a class="dropdown-item" href="contact.php">Contact</a></li>
                                     </ul>
                                     <!-- Dropdown End -->
                                 </li>
