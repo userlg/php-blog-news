@@ -1,0 +1,70 @@
+#############################################################################################
+
+
+the project is very simple.
+you make 2 versions coding html news to php blog script
+one is english original template you code 
+and the second you just make rtl version for the coded template
+
+
+files wich need to be coded:
+
+html files are template files php files from php script
+when you code make sure u include the all php parameters on template. comments statstics all php info that appears on php file also appears in temaplte coded
+
+index.html >> index.php 
+http://edition.co.il/index.php 
+
+single.html >> post.php,  page.php?id=1 
+live demo of php code file http://edition.co.il/post.php?id=1 
+data example:
+Author: admin 12.02.2022, 01:20 Category: Site News Comments: 1 Views: 11
+
+contact.html >> contact.php
+http://edition.co.il/contact.php
+
+category-grid.html  >> search.php its similar make it as search results code template
+
+http://edition.co.il/category.php?id=1
+
+category-classic.html >> category.php
+
+
+
+all other files take the best html file that suits the php file and code them please
+
+
+####################################################################################################
+
+
+el proyecto es muy sencillo.
+se hacen 2 versiones codificando html news a php blog script
+una es la plantilla original en inglés que codificas 
+y la segunda es la versión rtl de la plantilla codificada
+
+
+archivos que necesitan ser codificados:
+
+los archivos html son los archivos de la plantilla los archivos php del script php
+cuando codifique asegúrese de incluir todos los parámetros de php en la plantilla. las estadísticas de los comentarios toda la información de php que aparece en el archivo de php también aparece en el temaplte codificado
+
+index.html >> index.php 
+http://edition.co.il/index.php 
+
+single.html >> post.php, page.php?id=1 
+demostración en vivo del archivo de código php http://edition.co.il/post.php?id=1 
+ejemplo de datos:
+Autor: admin 12.02.2022, 01:20 Categoría: Noticias del sitio Comentarios: 1 Vistas: 11
+
+contacto.html >> contacto.php
+http://edition.co.il/contact.php
+
+category-grid.html >> search.php su similar hacerlo como plantilla de código de resultados de búsqueda
+
+http://edition.co.il/category.php?id=1
+
+category-classic.html >> category.php
+
+
+
+todos los otros archivos tomar el mejor archivo html que se adapte al archivo php y el código de ellos por favor
