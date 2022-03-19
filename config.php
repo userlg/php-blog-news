@@ -1,6 +1,6 @@
 <?php
-$host     = "localhost"; // Database Host
-$user     = "root"; // Database Username
+$host     = ""; // Database Host
+$user     = ""; // Database Username
 $password = ""; // Database's user Password
 $database = ""; // Database Name
 
