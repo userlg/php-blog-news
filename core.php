@@ -374,7 +374,7 @@ if ($site['rtl'] == "Yes") {
 <?php
     if ($logged == 'No') {
 ?>
-    <li class="nav-item"><a href="login.php" class="nav-link btn btn-primary px-2"><i class="fas fa-sign-in-alt"></i> Sign In</a></li>
+    <li class="nav-item"><a href="login.php" class="nav-link btn btn-primary px-2">Sign In<i class="fas fa-sign-in-alt"></i> Sign In</a></li>
 <?php
     } else {
 ?>
