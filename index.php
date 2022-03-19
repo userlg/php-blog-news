@@ -1,4 +1,5 @@
 <?php
+// Created by Userlg
 include "core.php";
 head();
 ?>
