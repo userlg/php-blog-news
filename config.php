@@ -12,7 +12,10 @@ if (mysqli_connect_errno()) {
     exit();
 }
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> main
 mysqli_set_charset($connect, "utf8mb4");
 
 $site_url = "http://localhost";
